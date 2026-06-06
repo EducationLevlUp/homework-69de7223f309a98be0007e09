@@ -1,0 +1,10 @@
+# Core dependencies
+langchain>=0.3.0
+langgraph>=0.2.0
+deepagents>=0.1.0
+
+# Search tool (free, no API key required)
+duckduckgo-search>=6.0.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
