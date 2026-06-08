@@ -3,6 +3,11 @@ langchain>=0.3.0
 langgraph>=0.2.0
 deepagents>=0.1.0
 
+# LangChain components (required for tools, messages, and LLM integration)
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.3.0
+
 # Search tool (free, no API key required)
 duckduckgo-search>=6.0.0
 
